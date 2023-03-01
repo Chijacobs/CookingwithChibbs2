@@ -55,3 +55,13 @@ p {
     background-size: cover;
     background-position: center;
  }*/
+
+ ol li {
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+ }
+
+ p {
+    padding: 0px 20px 0px 20px;
+ }
